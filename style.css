@@ -3,10 +3,8 @@
     margin: 0;
     box-sizing: border-box;
   }
-  
-  /* Global */
-  
-  body {
+
+body {
     font-family: "Merriweather", sans-serif;
     background-color: #ebf2ff;
     overflow-x: hidden;
@@ -27,10 +25,7 @@
   section {
     margin: 4rem 0;
   }
-  
-  /* Custom */
-  
-  .container {
+.container {
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
